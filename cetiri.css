@@ -1,6 +1,7 @@
 body {
-  background-image: url('tri.png');
-    background-repeat: no-repeat;
+  background-image: url('cetiri.jpg');
+
+  background-repeat: no-repeat;
   background-size: cover;
 
 }
@@ -12,8 +13,8 @@ body {
 }
 
 .holder img {
-  width: 85%;
-  height: 85%;
+  width: 80%;
+  height: 80%;
 object-fit: cover;
 align-items: center;
 display: block;
@@ -30,7 +31,7 @@ p{
   display:block;
   position: fixed;
   width: 100%;
-  bottom: 8vh;
+  bottom: 33vh;
 }
 
 .tekst p {

@@ -31,11 +31,11 @@ p{
   display:block;
   position: fixed;
   width: 100%;
-  bottom: 350px;
+  bottom: 33vh;
 }
 
 .tekst p {
-  font-size: 14px;
+  font-size: 15px;
 font-family: 'Source Serif 4', serif;
 
   font-weight: 300;
